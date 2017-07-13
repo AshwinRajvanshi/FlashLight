@@ -1,4 +1,4 @@
-package com.example.android.flashlight;
+package com.example.ashwinrajvanshi.flashlight;
 
         import android.app.Activity;
         import android.app.AlertDialog;
